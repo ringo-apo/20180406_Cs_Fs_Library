@@ -1,0 +1,9 @@
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\Library1.XML
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\Library1.dll
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\Library1.pdb
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\FSharp.Core.dll
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\System.ValueTuple.dll
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\FSharp.Core.xml
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\bin\Release\ja\FSharp.Core.resources.dll
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\obj\Release\Library1.dll
+D:\data\develop\making\20180406_Cs_Fs_Library\Library1\Library1\obj\Release\Library1.pdb
